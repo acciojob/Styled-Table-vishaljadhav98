@@ -1,1 +1,9 @@
 /* your code */
+.table{
+	border: 1px;
+	border-radius: 3px;
+}
+th{
+	background-color: blue;
+	color: white;
+}
